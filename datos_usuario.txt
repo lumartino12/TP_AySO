@@ -1,1 +1,2 @@
 Usuario=vagrant
+model name	: AMD Ryzen 5 7520U with Radeon Graphics
